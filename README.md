@@ -1,6 +1,6 @@
 ### Hi there, I'm Syn <img src="https://github.com/Syn-Designs/Syn-Designs/blob/main/assets/C049632C-1400-456C-9185-2DE1F1BB47E0.gif" width="22px">
 
-<img src="https://cdn.discordapp.com/attachments/910188429491445811/930845032007729242/IMG_2306.jpg" height="720px" width="1270px">
+<img src="https://cdn.discordapp.com/attachments/910188429491445811/930845032007729242/IMG_2306.jpg" height="540px" width="1270px">
 
 ---
 
