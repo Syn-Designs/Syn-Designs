@@ -5,7 +5,7 @@
 
 <br />
 
-- 🌱 Currently I'm learning Full Stack Development
+- ⚡️ Currently I'm learning Full Stack Development
 - 😄 Pronouns: He/Him
 
 <br />
@@ -28,13 +28,13 @@
 <!-- Profile Trophy -->
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Syn-designs&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Syn-Designs&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
-![Syn Designs github stats](https://github-readme-stats.vercel.app/api?username=Syn-designs&theme=nord&show_icons=true&count_private=true)
+![Syn Designs github stats](https://github-readme-stats.vercel.app/api?username=Syn-Designs&theme=nord&show_icons=true&count_private=true)
   
   
 <!--   Top Languages Using -->
