@@ -55,4 +55,5 @@
   <h3><b>😄 Connect With Me</b></h3>
   </div>
 <p align="center">
+Discord: Syn#1000
 <p>
