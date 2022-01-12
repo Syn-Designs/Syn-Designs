@@ -34,7 +34,8 @@
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
-[![Syn's GitHub stats](https://github-readme-stats.vercel.app/api?username=syn-designs&count_private=true)]
+![Syn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syn-Designs&theme=onedark)
+
   
   
 <!--   Top Languages Using -->
