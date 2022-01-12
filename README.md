@@ -16,7 +16,7 @@
 <br />
 
 
-### 🧰 Languages and Tools:
+### 🧰 Languages:
 
 <img align="left" alt="Java" width="26px" src="https://github.com/Syn-Designs/Syn-Designs/blob/main/assets/6ED16D80-EC4F-45CA-B7E6-998B6FB1D17E.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/Syn-Designs/Syn-Designs/blob/main/assets/1AF428F0-A9F0-4BB5-9FA1-4C7101CDA6B1.png" />
