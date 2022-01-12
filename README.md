@@ -43,14 +43,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Syn-designs&theme=nord_dark)
 
 
- <br> 
- 
- <hr>
  
  <br>
 
   <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
+  <h3><b>😄 Connect With Me</b></h3>
   </div>
 <p align="center">
 <p>
