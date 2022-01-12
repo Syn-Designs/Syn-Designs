@@ -34,7 +34,7 @@
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
-![Syn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syn-Designs&theme=onedark)
+![Syn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syn-Designs&theme=radical)
 
   
   
