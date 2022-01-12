@@ -34,7 +34,7 @@
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
-[![Syn's GitHub stats](https://github-readme-stats.vercel.app/api?username=syn-designs)](https://github.com/anuraghazra/github-readme-stats)
+[![Syn's GitHub stats](https://github-readme-stats.vercel.app/api?username=syn-designs&count_private=true)]
   
   
 <!--   Top Languages Using -->
