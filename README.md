@@ -39,7 +39,7 @@
   
   
 <!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used*:
+### 👨‍💻 Top Languages Used:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syn-designs&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Syn-designs&theme=nord_dark)
 
