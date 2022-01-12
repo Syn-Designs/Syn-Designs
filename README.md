@@ -11,7 +11,6 @@
 <br />
 <br />
 <br />
-<br />
 
 
 ### 🧰 Languages and Tools:
@@ -35,7 +34,7 @@
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=Syn-designs&theme=nord&show_icons=true&count_private=true)
+![Syn Designs github stats](https://github-readme-stats.vercel.app/api?username=Syn-designs&theme=nord&show_icons=true&count_private=true)
   
   
 <!--   Top Languages Using -->
@@ -43,10 +42,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syn-designs&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Syn-designs&theme=nord_dark)
 
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Syn-designs&theme=github)
 
  <br> 
  
@@ -59,19 +54,3 @@
   </div>
 <p align="center">
 <p>
-  
-<br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/syn-designs/count.svg" />  
-</p>
-   
-  ---
-  *\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
-  
-  ---
